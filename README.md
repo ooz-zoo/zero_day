@@ -13,6 +13,11 @@ This is also __bold__ text.
 This is __quite__ *interesting*.
 ***Hello, world!***
 
+😄
+
+# Issue number and pull request
+#42
+
 # Link to images and sites
 ![Link an image.](path to the image)
 
