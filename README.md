@@ -11,6 +11,7 @@ This is also __bold__ text.
 
 ## Bold and Italics
 This is __quite__ *interesting*.
+***Hello, world!***
 
 # Link to images and sites
 ![Link an image.](path to the image)
